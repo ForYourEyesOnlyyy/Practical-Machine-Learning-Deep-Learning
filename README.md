@@ -10,38 +10,38 @@ Each notebook in this repository explores a different ML/DL task, including comp
 - **Task:** Train a deep neural network (DNN) to detect blondes in images.
 - **Key Topics:** Best practices for CNN training, visualization using **TensorBoard** or **ClearML**.
 - **Dataset:** A subset of **CelebFaces** dataset.
-- **Notebook:** [Link]
+- **Notebook:** [[Link](https://github.com/ForYourEyesOnlyyy/Practical-Machine-Learning-Deep-Learning/blob/main/notebooks/DNN_training_with%20_racking_tools.ipynb)]
 
 ### 2️⃣ **Classify Product Reviews**
 - **Task:** Classify Amazon product reviews based on title, text, and additional parameters.
 - **Key Topics:** Text classification, NLP, feature engineering.
-- **Notebook:** [Link]
+- **Notebook:** [[Link](https://github.com/ForYourEyesOnlyyy/Practical-Machine-Learning-Deep-Learning/blob/main/notebooks/Classify_product_reviews.ipynb)]
 
 ### 3️⃣ **Part-of-Speech Tagging**
 - **Task:** Implement part-of-speech (POS) tagging using a many-to-many NLP approach.
 - **Key Topics:** Universal POS tagging categories, sequence modeling.
 - **Dataset:** Universal POS dataset.
-- **Notebook:** [Link]
+- **Notebook:** [[Link](https://github.com/ForYourEyesOnlyyy/Practical-Machine-Learning-Deep-Learning/blob/main/notebooks/POS-tagging.ipynb)]
 
 ### 4️⃣ **Fine-tuning of Vision Transformers (ViT)**
 - **Task:** Train a **Vision Transformer (ViT)** for image classification.
 - **Key Topics:** HuggingFace Transformers, Vision Transformers (ViT), **Low-Rank Adaptation (LoRA)** for efficient fine-tuning.
-- **Notebook:** [Link]
+- **Notebook:** [[Link](https://github.com/ForYourEyesOnlyyy/Practical-Machine-Learning-Deep-Learning/blob/main/notebooks/Fine-tuning_of_ViT.ipynb)]
 
 ### 5️⃣ **Question Answering with BERT**
 - **Task:** Fine-tune a **BERT-based model** for question-answering.
 - **Key Topics:** Transformer-based NLP, transfer learning, context-based question answering.
-- **Notebook:** [Link]
+- **Notebook:** [[Link](https://github.com/ForYourEyesOnlyyy/Practical-Machine-Learning-Deep-Learning/blob/main/notebooks/Question_Answering.ipynb)]
 
 ### 6️⃣ **Multimodal Model Training**
 - **Task:** Train a **multimodal model** that matches images with their corresponding text descriptions.
 - **Key Topics:** Multimodal learning, metric learning, **Mean Reciprocal Rank (MRR)** evaluation.
-- **Notebook:** [Link]
+- **Notebook:** [[Link](https://github.com/ForYourEyesOnlyyy/Practical-Machine-Learning-Deep-Learning/blob/main/notebooks/Multimodal_model.ipynb)]
 
 ### 7️⃣ **Time Series Forecasting**
 - **Task:** Predict stock prices using historical time series data.
 - **Key Topics:** Time series analysis, feature engineering, forecasting models, **Mean Squared Error (MSE)** evaluation.
-- **Notebook:** [Link]
+- **Notebook:** [[Link](https://github.com/ForYourEyesOnlyyy/Practical-Machine-Learning-Deep-Learning/blob/main/notebooks/Time_Series_Forecasting.ipynb)]
 
 ---
 ## 🔧 Tools & Frameworks Used
@@ -56,9 +56,6 @@ Each notebook in this repository explores a different ML/DL task, including comp
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open issues, suggest improvements, or add new notebooks covering different ML/DL tasks.
-
-## 📜 License
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 🚀 **Happy coding and exploring ML/DL!**
